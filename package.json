@@ -35,13 +35,14 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"java": "~0.8.0"
+		"java": "~5.0.1",
+		"nan": "^2.11.0"
 	},
 	"devDependencies": {
 		"mocha": "~3.2.0",
 		"istanbul": "~0.4.5"
 	},
-	"engines" : {
-		"node" : ">=0.10.0"
+	"engines": {
+		"node": ">=0.10.0"
 	}
 }
